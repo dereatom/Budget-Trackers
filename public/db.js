@@ -1,4 +1,4 @@
-const { connect } = require("mongoose");
+// const { connect } = require("mongoose");
 
 let db;
 const request = indexedDB.open("budget");
