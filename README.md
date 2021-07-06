@@ -25,7 +25,10 @@
   ## Usage
   Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
-  ## Links
+  ## Deployed Links and Screenshots
+
+  [Deployed app](https://gentle-ridge-31868.herokuapp.com/)
+  
  ![Capture1](https://user-images.githubusercontent.com/77940481/124524801-74f0c300-ddca-11eb-986f-a72503ee1840.JPG) 
  ![Capture2](https://user-images.githubusercontent.com/77940481/124524804-77531d00-ddca-11eb-9ac0-57b1f3f0ced4.JPG) 
  ![Capture3](https://user-images.githubusercontent.com/77940481/124524808-791ce080-ddca-11eb-85a0-5865eae98a24.JPG)
@@ -37,7 +40,7 @@
   N/A
   
   ## Tests
-  N/A
+  Only the offline and online functionality of the app was tested.
   
   ## Github
   https://github.com/dereatom
