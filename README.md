@@ -29,9 +29,9 @@
 
   [Deployed app](https://gentle-ridge-31868.herokuapp.com/)
   
- ![Capture1](https://user-images.githubusercontent.com/77940481/124524801-74f0c300-ddca-11eb-986f-a72503ee1840.JPG) 
- ![Capture2](https://user-images.githubusercontent.com/77940481/124524804-77531d00-ddca-11eb-9ac0-57b1f3f0ced4.JPG) 
- ![Capture3](https://user-images.githubusercontent.com/77940481/124524808-791ce080-ddca-11eb-85a0-5865eae98a24.JPG)
+![Capture1](https://user-images.githubusercontent.com/77940481/124761891-4412aa00-df00-11eb-8ee5-c7ceee0f9031.PNG)
+![Capture2](https://user-images.githubusercontent.com/77940481/124524804-77531d00-ddca-11eb-9ac0-57b1f3f0ced4.JPG) 
+![Capture3](https://user-images.githubusercontent.com/77940481/124524808-791ce080-ddca-11eb-85a0-5865eae98a24.JPG)
   
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
