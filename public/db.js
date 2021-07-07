@@ -1,5 +1,3 @@
-// const { connect } = require("mongoose");
-
 let db;
 const request = indexedDB.open("budget");
 
@@ -16,6 +14,7 @@ request.onsuccess = function (event) {
       checkDatabase();
     }
   };
+  
   request.onerror = function(event) {
     console.log(event.target.errorCode);
     };

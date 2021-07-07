@@ -14,7 +14,7 @@ const FILES_TO_CACHE = [
     './icons/icon-512x512.png'  
   ];
 
-  self.addEventListener('install', function (e) {
+self.addEventListener('install', function (e) {
     e.waitUntil(
         caches.open(CACHE_NAME).then(function (cache) {
           console.log('installing cache : ' + CACHE_NAME)
@@ -25,7 +25,7 @@ const FILES_TO_CACHE = [
   }); 
 
 // activate a service worker
-  self.addEventListener('activate', function (e) {
+self.addEventListener('activate', function (e) {
 
     e.waitUntil(
       caches.keys().then(function (keyList) {
@@ -58,7 +58,6 @@ self.addEventListener("fetch", function(evt) {
               if (response.status === 200) {
                 cache.put(evt.request.url, response.clone());
               }
-  
               return response;
             })
             .catch(err => {
